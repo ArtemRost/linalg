@@ -1,0 +1,14 @@
+# Build artifacts
+/build/
+/build-tests/
+/CMakeCache.txt
+/CMakeFiles/
+/cmake-build-*/
+
+# IDE folders
+/.idea/
+/.vscode/
+
+# Generated files
+compile_commands.json
+
